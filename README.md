@@ -1,5 +1,3 @@
-# Word_Embeddings_FFNN
-
 # Word Embeddings
 Here was a very fun and interesting assignment that I worked on in a graduate Natural Language Processing class. In Part I of the assignment, it focused on anaylzing all of William Shakespeare's play and the total lines spoken in each play. From that data, I generated a documented term matrix and plot the data into the graph to represent the similarity of each plays based on the lines spoken. I used CountVectorizer and TFIDF Vectorizer objects to anaylze the difference of the graph data when each was used. Repeated the process by anaylzing the characters lines being spoken from each play. Then, I worked on a generating word embeddings starting out with a Do it yourself Word Embedding to understand the process of how word embeddings are created for each play. Then, I tested out the Word2Vec object from gensim.models to generate the word embeddings more easier based on each word spoken in each play. Repeted the same process for anaylzing the players as well
 
